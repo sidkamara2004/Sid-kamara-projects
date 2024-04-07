@@ -1,5 +1,5 @@
 # Sid-kamara-projects
 <head>input</head>
-hhhhg
-me
-you
+welcome to sids website
+please login below
+email
